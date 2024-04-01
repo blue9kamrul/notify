@@ -10,7 +10,7 @@ import 'package:notify/view/register_view.dart';
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
   runApp(MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Notify',
       theme: ThemeData(  
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
